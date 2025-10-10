@@ -1,4 +1,4 @@
-# ERA5 Pacific SST & TCWV EOF Analysis — Xarray & Sci-Kit Learn Teaching Template
+# ERA5 Pacific SST & TCWV EOF Analysis — Xarray & Sci-Kit Learn
 
 This repository contains a Jupyter notebook that demonstrates how to work with ERA5 monthly mean data from NCAR/ECMWF to compute and analyze Sea Surface Temperature (SST) anomalies and total column water vapor (TCWV) over the Pacific Basin. 
 
@@ -37,7 +37,7 @@ This repository contains a Jupyter notebook that demonstrates how to work with E
 - Xarray documentation: [https://xarray.pydata.org/en/stable/](https://xarray.pydata.org/en/stable/)  
 - Copernicus ERA5 dataset: [https://cds.climate.copernicus.eu/](https://cds.climate.copernicus.eu/)
 
-- ## License
+## License
 
 This repository is licensed under the [MIT License](LICENSE).
 
